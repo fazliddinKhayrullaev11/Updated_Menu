@@ -120,11 +120,11 @@
                       <tr>
                         <td><h3>ID</h3></td>
                         <td><h3>Name</h3></td>
-                        <td><h3>Surname</h3></td>
+                        <td><h3>SurName</h3></td>
                         <td><h3>Status</h3></td>
                         <td><h3>Age</h3></td>
-                        <td><h3>Delete</h3></td>
-                        <td><h3>Edit</h3></td>
+                        <td>Delete</td>
+                        <td>Edit</td>
                       </tr>
                       </thead>
                       <tbody>
