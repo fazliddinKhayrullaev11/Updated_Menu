@@ -129,7 +129,7 @@
                       </thead>
                       <tbody>
                     {
-                     this.state.data.map(({id,name,surname,status,age,})=>{
+                     this.state.data.map(({id,name,surname,status,age,})=>{ //to make table you should always use map method with state element
                          return(
                             <tr key={id}>
                             <td>{id}</td>
