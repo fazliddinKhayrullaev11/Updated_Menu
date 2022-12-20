@@ -6,12 +6,14 @@ import reportWebVitals from './reportWebVitals';
 // import December161 from './december16.1.jsx';
 // import StyledComp from './styledcomponent.jsx';
 import Stcomponent from './StyledComp1.jsx';
+import December20 from './december20.2022.jsx';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <Stcomponent/>
+    <December20/>
   </React.StrictMode>
 );
 
